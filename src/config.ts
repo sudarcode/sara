@@ -2,10 +2,10 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://shravangoswami.com/",
-  author: "Shravan Goswami",
+  author: "Sudar Blogger",
   profile: "https://shravangoswami.com/",
-  desc: "Software developer and open-source contributor writing about tech, cinema, philosophy, and the things that make us think.",
-  title: "Shravan Goswami",
+  desc: "Blog ini adalah tempat share pengalaman, cerita, dan esai mengenai kehidupan yang ku jalani.",
+  title: "Nauval Sudarmanto",
   ogImage: "og.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -28,7 +28,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/shravanngoswamii",
+    href: "https://github.com/sudarcode",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -52,7 +52,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:contact@shravangoswami.com",
+    href: "mailto:admin@sudarblogger.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
