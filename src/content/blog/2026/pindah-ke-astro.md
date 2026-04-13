@@ -18,12 +18,9 @@ Astro (astro.build) adalah web framework modern yang dirancang khusus untuk memb
 
 Ada beberapa alasan mengapa memilih untuk pindah ke Astro.js ini bukan tanpa alasan, sebenarnya saya sudah menggunakan SSG dimana menggunakan Platfrom Hugo namun ada beberapa alasan memindah ke astro ini. Berikut ini adalah alasan nya mengapa pindah ke Astro.js ini:
 
-**1. Mudah di Kembangkan**
-Di Astro ini sangatlah mudah dikembangkan sama seperti hugo akan tetapi di hugo ini kaya lebih sulit menurut saya apalagi pakai handphone sebagai senjata untuk ngeblog. 
-**2. Loading Cepat**
-Sama seperti Hugo Astro memiliki loding yang sangat cepat, namun jika menggunakan Astro ini script akan diminimalisir lagi. 
-**3. Mudah di Backup**
-Karena menggunakan Git jadi artikel apapun gampang di backup, bahkan untuk cari artikel lainya pun sangatlah gampang. 
+1. **Mudah di Kembangkan**: Di Astro ini sangatlah mudah dikembangkan sama seperti hugo akan tetapi di hugo ini kaya lebih sulit menurut saya apalagi pakai handphone sebagai senjata untuk ngeblog.
+2. **Loading Cepat** :Sama seperti Hugo Astro memiliki loding yang sangat cepat, namun jika menggunakan Astro ini script akan diminimalisir lagi.
+3. **Mudah di Backup**: Karena menggunakan Git jadi artikel apapun gampang di backup, bahkan untuk cari artikel lainya pun sangatlah gampang. 
 
 ## Keunggulan Astor Bluid
 
