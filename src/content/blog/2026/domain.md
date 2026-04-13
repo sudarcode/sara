@@ -2,7 +2,7 @@
 author: Sudarmanto
 pubDatetime: 2020-11-25
 title: "Pengalaman Mendaftar di Google Adsense Pakai Domain web.id"
-slug: "komunitas-blogger-lamongan"
+slug: "diterima-google-adsense"
 tags: [blogger, Google, Adsense]
 featured: false
 description: "Cara Agar Diterima Google Adsense Terbaru"
