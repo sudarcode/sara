@@ -2,7 +2,7 @@
 author: Sudarmanto
 pubDatetime: 2022-07-17
 title: "Grub Ngobrol Seru Dengan Komunitas Blogger Seluruh Indonesia"
-slug: "komunitas-blogger-lamongan"
+slug: "komunitas-blogger-indonesia"
 tags: [blogger, Template, Komunitas]
 featured: false
 description: "Link Grub Blogger Indonesia Untuk diskusi"
