@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://shravangoswami.com/",
+  website: "https://sudarblogger.com/",
   author: "Sudar Blogger",
-  profile: "https://shravangoswami.com/",
+  profile: "https://sudarblogger.com/",
   desc: "Blog ini adalah tempat share pengalaman, cerita, dan esai mengenai kehidupan yang ku jalani.",
-  title: "Nauval Sudarmanto",
+  title: "Sudar Blogger",
   ogImage: "og.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -34,19 +34,19 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Facebook",
-    href: "#",
+    href: "https://facebook.com/Nauval.sudarmanto",
     linkTitle: `${SITE.title} on Facebook`,
     active: false,
   },
   {
     name: "Instagram",
-    href: "#",
+    href: "https://instagram.com/sudarblogger",
     linkTitle: `${SITE.title} on Instagram`,
     active: false,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/shravangoswami/",
+    href: "#",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
@@ -58,7 +58,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Twitter",
-    href: "https://x.com/shravangoswamii",
+    href: "#",
     linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },
