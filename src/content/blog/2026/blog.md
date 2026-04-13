@@ -4,7 +4,7 @@ pubDatetime: 2020-08-31
 title: "Welcome to My Blogs"
 slug: "my-blogs"
 tags: [astro, hugo, cloudflare, blogger]
-featured: true
+featured: false
 description: "Membuat Blog lagi di Blogger"
 
 ---
