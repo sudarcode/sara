@@ -215,11 +215,11 @@ const { activeNav } = Astro.props;
               <ul class="space-y-1">
                 <li>
             <a
-              href={withBase("/about/")}
-              class={`px-4 py-2 rounded-full transition-all duration-300 ${activeNav === "about" ? "bg-skin-base text-skin-inverted shadow-md" : "text-skin-base/60 hover:text-skin-base hover:bg-skin-card-muted"}`}
-              >
-               About
-           </a>
+                    href={withBase("/about/")}
+                    class={`block px-4 py-2.5 rounded-lg text-sm transition-all ${activeNav === "about" ? "bg-skin-fill text-skin-base font-medium" : "text-skin-base/70 hover:bg-skin-fill/50 hover:text-skin-base"}`}
+                  >
+                    About
+                  </a>
           </li>
             <li>
                   <a
