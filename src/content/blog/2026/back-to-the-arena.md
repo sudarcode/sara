@@ -4,7 +4,7 @@ pubDatetime: 2026-01-05
 title: "Back to the Arena: A New Chapter in 2026, From Open Source to Algorithms"
 slug: "back-to-the-arena-2026"
 tags: [competitive-programming, open-source, career, life-update]
-featured: true
+featured: false
 description: "My journey from inconsistent CP attempts to Open Source success, and why I'm returning to the algorithmic arena in my final semester."
 aliases:
   - /posts/back-to-the-arena-2026
