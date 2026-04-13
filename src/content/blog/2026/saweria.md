@@ -2,7 +2,7 @@
 author: Sudarmanto
 pubDatetime: 2024-07-17
 title: "Cara Ganti Email Lama ke Email Baru di Saweria, Tapi Ribet"
-slug: "komunitas-blogger-lamongan"
+slug: "email-saweria"
 tags: [blogger, Google, Adsense]
 featured: false
 description: "Cara Ganti Email Baru di Saweria, Tapi Ribet nya minta ampun"
