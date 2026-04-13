@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://sudarblogger.com/",
+  website: "https://sudarblogger.web.id/",
   author: "Sudar Blogger",
-  profile: "https://sudarblogger.com/",
+  profile: "https://sudarblogger.web.id/",
   desc: "Blog ini adalah tempat share pengalaman, cerita, dan esai mengenai kehidupan yang ku jalani.",
-  title: "Sudar Blogger",
+  title: "Blog Kang Sudar",
   ogImage: "og.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -14,8 +14,8 @@ export const SITE: Site = {
 };
 
 export const LOCALE = {
-  lang: "en", // html lang code. Set this empty and default will be "en"
-  langTag: ["en-EN"], // BCP 47 Language Tags. Set this empty [] to use the environment default
+  lang: "id", // html lang code. Set this empty and default will be "en"
+  langTag: ["id-ID"], // BCP 47 Language Tags. Set this empty [] to use the environment default
 } as const;
 
 export const LOGO_IMAGE = {
